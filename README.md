@@ -1,5 +1,5 @@
 - 👋 Aspiring data scientist, data analyst
-- 👀 Find out more about me at [my blog](z.umn.edu/metricstudio)
+- 👀 Find out more about me at [my blog](https://94light.wixsite.com/mysite/blog)
 
 <!---
 jiehwan94/jiehwan94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
