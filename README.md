@@ -1,4 +1,4 @@
-- 👋 Aspiring data scientist, data analyst
+- 👋 Aspiring full stack data scientist
 - 👀 Find out more about me at [my blog](https://94light.wixsite.com/mysite/blog)
 
 <!---
